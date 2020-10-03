@@ -17,7 +17,8 @@ Stack.prototype.pushArray = function(array){
         this.push(array[i]);
         
     }
-}
+};
+// salam chetori?
 
 
 module.exports = Stack;
