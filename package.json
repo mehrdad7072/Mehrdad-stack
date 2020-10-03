@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node test" 
-   },
+    "test": "node test"
+  },
   "author": "mehrdad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mehrdad-stack": "^1.0.0"
+  }
 }
